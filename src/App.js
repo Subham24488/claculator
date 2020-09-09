@@ -283,7 +283,7 @@ function App() {
                 item.type === "ans"
                   ? handleAns(e, `${item.type}`)
                   : handleClick(e, `${item.type}`)
-              }
+              };
             >
               {item.name}
             </Button>
