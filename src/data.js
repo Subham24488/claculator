@@ -3,7 +3,7 @@ export const buttons1 = [
     type: "clear",
     name: "clear",
     classnames: "cala",
-    color: "secondary",
+    color: "secondarychang",
   },
   {
     type: "/",
