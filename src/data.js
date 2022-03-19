@@ -15,7 +15,7 @@ export const buttons1 = [
     type: ".",
     name: ".",
     classnames: "cb",
-    color: "secondary",
+    color: "secondaryy",
   },
   {
     type: "7",
