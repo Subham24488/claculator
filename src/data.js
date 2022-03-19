@@ -28,7 +28,7 @@ export const buttons1 = [
     name: "4",
 
     classnames: "cala",
-    color: "primary",
+    color: "primaryly",
   },
   {
     type: "1",
