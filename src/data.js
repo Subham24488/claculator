@@ -59,7 +59,7 @@ export const buttons1 = [
     type: "*",
     name: "*",
     classnames: "cb",
-    color: "secondary",
+    color: "secondarynewChanges",
   },
   {
     type: "-",
